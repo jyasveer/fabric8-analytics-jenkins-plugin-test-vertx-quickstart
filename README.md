@@ -1,0 +1,1 @@
+# fabric8-analytics-jenkins-plugin-test-vertx-quickstart
